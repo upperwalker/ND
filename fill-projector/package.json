@@ -1,0 +1,19 @@
+{
+  "name": "fill-projector",
+  "version": "1.0.0",
+  "description": "Let`s fill this shit ASAP",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "puppeteer": "^13.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ivan"
+  ],
+  "author": "upperwalker",
+  "license": "ISC"
+}
